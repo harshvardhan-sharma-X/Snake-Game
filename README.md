@@ -4,8 +4,6 @@ A simple implementation of the classic Snake game using Python.
 Getting Started
 Clone the repository:
 
-
-git clone https://github.com/your_username/snake_game.git
 Install required libraries:
 tkinter and random
 
